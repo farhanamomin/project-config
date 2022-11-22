@@ -1,5 +1,5 @@
 application:
-  name: TRANSACTION-SERVICE
+  name: transaction-service
 
 eureka:
   client:
